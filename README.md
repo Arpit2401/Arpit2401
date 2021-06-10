@@ -1,9 +1,11 @@
+![MasterHead](https://media-exp3.licdn.com/dms/image/C4D16AQHhG61HrY0mng/profile-displaybackgroundimage-shrink_350_1400/0/1623306035968?e=1628726400&v=beta&t=Zusg0pGEyEssiY80FGslx3oNpMClSO2X_acxVQ8Jb6Q)
+
 <h1 align="center">Hola! 👋, I'm Arpit Agarwal</h1>
 <h3 align="center">Trying to create awareness about Programming and Development through Cipher Build</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2401&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2401" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit2401" alt="arpit2401" /></a> </p>
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628372/media/fd3a2a9cbc90af541e6cf88c52b2a1ee.png" alt="coding image" width="350" />
 
 - 🌱 I’m currently learning **Data Strucutres and Algorithms & React**
 
@@ -21,6 +23,12 @@
 <a href="https://www.codechef.com/users/arpit_agarwal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpit_agarwal1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpit_agarwal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpit_agarwal24" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arpitmanas28/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpitmanas28/profile" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Follow Cipher Build:</h3>
+<p align="left">
+<a href="https://linkedin.com/company/cipherbuild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cipher Build LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/cipher_build" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Cipher Build Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
