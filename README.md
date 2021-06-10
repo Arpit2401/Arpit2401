@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">In ❤️ with Technology | Trying to create awareness about Programming and Development through Cipher Build</h3>
+<h3 align="center">Trying to create awareness about Programming and Development through Cipher Build</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2401&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2401" /> </p>
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arpit_agarwal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_agarwal24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpit-agarwal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-agarwal24" height="30" width="40" /></a>
 <a href="https://instagram.com/arpit_agarwal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpit_agarwal24" height="30" width="40" /></a>
+  <a href="https://twitter.com/arpit_agarwal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_agarwal24" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arpit_agarwal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arpit_agarwal1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpit_agarwal24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpit_agarwal24" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arpitmanas28/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpitmanas28/profile" height="30" width="40" /></a>
