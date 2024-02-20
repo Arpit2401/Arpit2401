@@ -1,17 +1,14 @@
 ![MasterHead](https://media-exp3.licdn.com/dms/image/C4D16AQHhG61HrY0mng/profile-displaybackgroundimage-shrink_350_1400/0/1623306035968?e=1628726400&v=beta&t=Zusg0pGEyEssiY80FGslx3oNpMClSO2X_acxVQ8Jb6Q)
 
 <h1 align="center">Hola! 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">Trying to create awareness about Programming and Development through Cipher Build</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2401&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2401" /> </p>
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628372/media/fd3a2a9cbc90af541e6cf88c52b2a1ee.png" alt="coding image" width="350" />
 
-- 🌱 I’m currently learning **Data Strucutres and Algorithms & React**
+- 🌱 I’m a **Front-End Developer**
 
-- 👯 I’m looking to collaborate on **WebD Projects**
-
-- 💬 Ask me about **Cipher Build, Website Development, Programming, Tips**
+- 👯 I’m looking to collaborate on **WebDev Projects**
 
 - 📫 How to reach me **arpitmanas28@gmail.com**
 
